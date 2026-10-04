@@ -1,0 +1,144 @@
+brand,link,status
+arbys,No Link Supplied,N/A
+buffalo wild wings,No Link Supplied,N/A
+burger king,No Link Supplied,N/A
+dunkin,No Link Supplied,N/A
+apple,https://www.apple.com/apple-card/,ok
+apple,https://www.apple.com/us-edu/store,ok
+logitech,https://www.logitech.com/en-us/promo/student-discount.html,ok
+doordash,https://www.doordash.com/,HTTPError
+doordash,https://help.doordash.com/consumers/s/article/DashPass-for-Students?language=en_US,ok
+lenovo,https://www.lenovo.com/us/en/landingpage/students-and-teachers/,ok
+chickfila,https://www.chick-fil-a.com/customer-support/events-and-promotions/local-events/does-chick-fil-a-offer-discounts-for-veterans-senior-citizens-students-and-other-special-groups,ok
+prezi,https://prezi.com/pricing/edu/,ok
+samsung,https://www.samsung.com/us/shop/discount-program/education/,ok
+slack,https://slack.com/help/articles/206646877-Apply-for-the-Slack-for-Education-discount,ok
+prime for young adults,https://www.amazon.com/Amazon-Student/b?ie=UTF8&node=668781011,ok
+spotify,https://www.spotify.com/us/student/,ok
+spotify,https://support.spotify.com/us/article/student-discount/,ok
+eight sleep,https://verifypass.com/offers/website/eightsleep.com,ok
+leesa,https://shop.id.me/discounts/12013-leesa/student,ok
+pottery barn,https://www.pbteen.com/pages/dorm-email-sign-up/,HTTPError
+aeropostale,https://www.aeropostale.com/aeropostale-unidays-about.html,HTTPError
+aeropostale,https://www.myunidays.com/US/en-US/partners/aeropostale/view,ok
+adidas,https://www.adidas.com/us/students,HTTPError
+adidas,https://www.adidas.com/us/back_to_school,HTTPError
+bed bath  beyond,https://www.bedbathandbeyond.com/collegeliving,ok
+bed bath  beyond,"https://www.bedbathandbeyond.com/College,/link,/results.html",HTTPError
+hm,https://www.myunidays.com/IN/en-IN/partners/hm/view,ok
+jcrew,https://www.jcrew.com/s/teacher-student-discount,HTTPError
+jcrew,https://www.jcrew.com/sale?srsltid=AfmBOooESCjvIVuetXK35UMVaK6Fe75dP4Ps_VdIr6y-FAlCsKzlR0_p,HTTPError
+american eagle,https://www.myunidays.com/US/en-US/partners/americaneagle/micro/online,ok
+youtube premium,https://www.youtube.com/premium/student,ok
+calvin klein,https://shop.id.me/storefronts/2452-calvin-klein/student,ok
+nike,https://www.nike.com/help/a/student-discount,ok
+nike,https://www.nike.com/w/kids-back-to-school-sale-2083czv4dh,ok
+meshki,https://www.meshki.us/pages/unidays,ok
+discover it student cash back,https://www.cnbc.com/select/discover-it-student-cash-back/,ok
+discover it student chrome,https://www.cnbc.com/select/discover-it-student-chrome/,ok
+bank of america travel rewards for students,https://www.cnbc.com/select/credit-card-marketplace/,ok
+evernote,https://evernote.com/students,ok
+microsoft office,https://support.microsoft.com/en-us/topic/student-discount-for-microsoft-office-office-in-education-59d471cf-d851-a798-e9b6-68764754d496,ok
+best buy,https://www.bestbuy.com/site/back-to-school/college-student-deals/pcmcat276200050000.c?id=pcmcat276200050000,ReadTimeout
+best buy,https://www.bestbuy.com/site/misc/back-to-school/pcmcat334100050000.c,ReadTimeout
+best buy,https://www.bestbuy.com/top-deals,ReadTimeout
+best buy,https://www.bestbuy.com/site/promo/bts-deals,ReadTimeout
+hp,https://www.hp.com/us-en/shop/cv/hp-education,ReadTimeout
+adobe creative cloud,https://www.adobe.com/creativecloud/buy/students.html,ReadTimeout
+microsoft,https://www.microsoft.com/en-us/store/b/education,ReadTimeout
+microsoft,https://www.microsoft.com/en-us/education/products/office,ok
+amc theaters,https://www.amctheatres.com/discounts,HTTPError
+the museum of fine arts houston,https://www.mfah.org/visit/hours-and-admissions/,HTTPError
+art institute of chicago,https://www.artic.edu/visit,ok
+adorama,https://www.adorama.com/students,HTTPError
+squarespace,https://www.squarespace.com/students,ok
+dell,https://www.dell.com/en-us/lp/students,HTTPError
+avid,https://www.avid.com/avid-for-education/avid-education-discounts,ok
+chicfila,No Link Supplied,N/A
+chipotle mcdonalds subway dunkin,No Link Supplied,N/A
+taco bell,No Link Supplied,N/A
+papa john dominos,No Link Supplied,N/A
+pizza hut,No Link Supplied,N/A
+verizon,https://www.verizon.com/featured/students/,ok
+us mobile,https://www.usmobile.com/student-discount,ok
+home chef,https://support.homechef.com/hc/en-us/articles/360043233192-Is-there-a-Home-Chef-Student-Discount,ok
+everyplate,https://www.everyplate.com/pages/students,ok
+hellofresh,https://www.hellofresh.com/pages/unidays,ok
+penske,https://www.pensketruckrental.com/discounts/college/,ok
+allstate,https://www.allstate.com/auto-insurance/teen-driver-discounts.aspx,ok
+american family insurance,https://www.amfam.com/insurance/car/discounts/student-discount-for-car-insurance,ok
+progressive,https://www.progressive.com/answers/student-information/,ok
+geico,https://www.geico.com/save/discounts/car-insurance-discounts/,ok
+student universe,https://www.studentuniverse.com/,ok
+carnegie hall,https://www.carnegiehall.org/Events/Discount-Programs/Student-Insider/Student-Discounts,ok
+apple music,https://support.apple.com/en-us/HT205928,ok
+nationwide insurance,https://www.nationwide.com/personal/insurance/auto/discounts/types/good-student,ok
+pandora,https://www.pandora.com/upgrade/premium/student,ok
+new jersey transit,https://www.njtransit.com/studentpass,ok
+peloton,https://www.onepeloton.com/offers/specialpricing/student,ok
+headspace,https://www.headspace.com/studentplan,ok
+state farm,https://www.statefarm.com/insurance/auto/discounts,ok
+the economist,https://subscribenow.economist.com/student?check=1,ok
+soundcloud,https://checkout.soundcloud.com/student,ok
+aerie,https://www.myunidays.com/US/en-US/partners/aerie/view,ok
+blick,https://www.dickblick.com/stores/PreferredCustomers/,ok
+converse,https://www.converse.com/c/student-discount,HTTPError
+goodwill,https://shopgoodwill.com/home,ok
+crocs,https://www.crocs.com/student.html,ok
+levis,https://www.levi.com/US/en_US/cms/student,HTTPError
+madewell,https://www.madewell.com/student-teacher.html,HTTPError
+purple,https://purple.com/education-discount,ok
+reebok,https://www.studentbeans.com/student-discount/us/reebok,ok
+the north face,https://www.thenorthface.com/en-us/help/the-north-face-student-discount-program,HTTPError
+the wall street journal,https://store.wsj.com/shop/us/us/wsjstudentbts21/?gclid=CjwKCAjwyo36BRAXEiwA24CwGUEK3-Gpl4DhDKm3nHk6o2mVCDDLJCwj4Wlttq1OxQ46pd0_vKhBSxoCpzkQAvD_BwE&trackingCode=aaqwim1y&cid=WSJ_SCH_GOO_ACQ_NA&n2IKsaD9=n2IKsaD9&Pg9aWOPT=Pg9aWOPT&Cp5dKJWb=Cp5dKJWb&APCc9OU1=APCc9OU1&gclsrc=aw.ds&ef_id=X0AFaAAAADxrlmFH:20200824094259:s,ok
+babbel,https://welcome.babbel.com/en/student-discount/,ok
+tommy hilfiger,https://usa.tommy.com/en/id-me.html,HTTPError
+stanley,https://www.stanley1913.com/pages/idme,ok
+vera bradley,https://verabradley.com/pages/appreciation-discount,ok
+redbubble,https://connect.studentbeans.com/v4/hosted/redbubble/us,ok
+att,https://www.att.com/search/?q=student+discount,ok
+vineyard vines,https://www.vineyardvines.com/student-discount/student-discount.html,ok
+united,https://www.united.com/ual/en/us/fly/mileageplus/promotions/young-traveler.html,ReadTimeout
+farmers insurance,https://www.farmers.com/discounts/car-insurance/,ReadTimeout
+asos,https://www.asos.com/us/student-validation,ReadTimeout
+all home,https://www.nbcnews.com/select/home,ok
+all wellness,https://www.nbcnews.com/select/wellness,ok
+amazon,https://www.amazon.com/Amazon-Student/b?tag=bestcollegediscounts2026rcna590001-20,HTTPError
+amazon,https://www.amazon.com/clp/sr?tag=bestcollegediscounts2026rcna590001-20,HTTPError
+all tech,https://www.nbcnews.com/select/tech,ok
+unidays,https://www.myunidays.com/US/en-US,ok
+all deals  sales,https://www.nbcnews.com/select/deals-sales,ok
+all gift guides,https://www.nbcnews.com/select/gift-ideas,ok
+all top stories,https://www.nbcnews.com/select/top-stories,ok
+sams club,https://help.samsclub.com/app/answers/detail/a_id/3938/~/college-students-membership-discount,HTTPError
+student beans,https://www.studentbeans.com/us,ok
+walmart,https://www.walmart.com/plus/student,ok
+walmart,https://www.walmart.com/shop/back-to-college/tech,ok
+walmart,https://www.walmart.com/cp/dorm-room-essentials/1225229,ok
+walmart,https://www.walmart.com/shop/deals/office-and-activities/school-supplies,ok
+all pets,https://www.nbcnews.com/select/pets,ok
+all october prime day 2026,https://www.nbcnews.com/select/amazon-prime-day,ok
+ikea,https://www.ikea.com/us/en/campaigns/starting-college/college-student-discount-pub60c5c8a0/,ok
+target,https://www.target.com/l/target-circle-college-student-appreciation/-/N-6v01l,ok
+target,https://www.target.com/c/electronics-deals/-/N-556x9,ok
+target,https://www.target.com/c/dorm-bedding/all-deals/-/N-5v9x9Zakkos,ok
+target,https://www.target.com/c/school-office-supplies-deals/-/N-n6qub,ok
+all kitchen,https://www.nbcnews.com/select/kitchen,ok
+all lifestyle,https://www.nbcnews.com/select/lifestyle,ok
+on,https://www.on.com/en-us/explore/student-discounts,ok
+brooks,https://www.brooksrunning.com/en_us?srsltid=AfmBOoqAnp2zYs4AHTTV_bU-QhabH89W7r6lj95D10H12IO6d0aJUeLH,HTTPError
+hoka,https://www.hoka.com/en/us/sale/,HTTPError
+new balance,https://www.newbalance.com/idme.html,HTTPError
+saucony,https://www.saucony.com/UK/en_GB/student-discount/,ok
+dormify,https://www.dormify.com/shop/sale/all-sale/,HTTPError
+brooklinen,https://www.brooklinen.com/collections/last-call,ok
+lululemon,https://shop.lululemon.com/c/we-made-too-much/n18mhd,HTTPError
+buffy,https://buffy.co/collections/best-sellers,ok
+costco,https://www.anrdoezrs.net/links/9260995/type/dlg/sid/bestcollegediscounts2026rcna590001/https://www.costco.com/writing-supplies.html,ok
+office max,https://www.officedepot.com/l/school-supplies/college-supplies,ok
+alo,https://www.aloyoga.com/pages/sale?srsltid=AfmBOormDOBwAQy1xPW3hWZiiwtpsk1Qd7nzPK2PSvRYXCmdJYfSLmxw#Men,ok
+comfrt,https://comfrt.com/,ok
+carhartt,https://www.carhartt.com/c/sale,HTTPError
+nordstrom,https://www.nordstrom.com/browse/sale?breadcrumb=Home%2FSale&origin=topnav,ok
+old navy,https://oldnavy.gap.com/browse/todays-deals/shop-all,ok
+rei,https://www.rei.com/h/deals,ReadTimeout
